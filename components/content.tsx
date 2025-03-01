@@ -2,7 +2,7 @@ import { LP_GRID_ITEMS } from "../libs/data";
 
 export default function Content() {
   return (
-    <div className="justify-center space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3">
+    <div className="justify-center gap-3 space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3">
       {LP_GRID_ITEMS.map((items: any) => (
         <div
           key={items.title}

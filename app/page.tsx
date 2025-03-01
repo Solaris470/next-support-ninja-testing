@@ -7,7 +7,7 @@ export default function Home() {
       <div className="mb-20">
         <Header />
       </div>
-      <div className="">
+      <div className="max-w-7xl mx-auto">
         <Content />
       </div>
     </div>
