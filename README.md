@@ -1,7 +1,7 @@
 
 # Next.js Enterprise Boilerplate
 
-A feature-packed, high-performance Next.js boilerplate for enterprise-grade projects featuring rapid UI development, AI-powered code reviews, and an extensive suite of tools for smooth and enjoyable development.
+A feature-packed, high-performance Next.js boilerplate for enterprise-grade projects featuring rapid UI development.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
